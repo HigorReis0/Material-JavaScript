@@ -38,4 +38,5 @@ console.log(nota >= 7); // false
 let a = 10, b = "10";
 console.log(a == b);
 console.log(a === b);
-// Acertei, true no primeiro e false no segundo
+// Acertei, true no primeiro e false no segu
+// ndo
