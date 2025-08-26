@@ -14,7 +14,6 @@ alunos = {
     idade: 16,
     matricula: 10204
 }
-
 console.log(alunos.nome)
 // 3. Crie um array com 5 elementos e exiba o terceiro elemento.
 
